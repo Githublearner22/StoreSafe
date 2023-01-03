@@ -11,8 +11,8 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/Css/)
 
 ### Installing
 
